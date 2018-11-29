@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The following instructions apply to the WebAppFrontEnd Repository, which constitutes much of the vertical prototype in its current iteration.
 
+You must also have npm installed, and should be using a UNIX or UNIX-like terminal.
+
 ## Available Scripts
 
 In the project directory, you can run:
