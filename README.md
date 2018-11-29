@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Note
+
+The following instructions apply to the WebAppFrontEnd Repository, which constitutes much of the vertical prototype in its current iteration.
+
 ## Available Scripts
 
 In the project directory, you can run:
